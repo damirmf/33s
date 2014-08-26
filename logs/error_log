@@ -1,0 +1,27 @@
+[Mon Aug 25 16:09:52 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/favicon.ico, referer: http://33slona.i/
+[Mon Aug 25 17:24:48 2014] [error] [client 127.0.0.1] PHP Warning:  require_once(/Users/inso/Sites/33slona.i/../../framework/yii.php): failed to open stream: No such file or directory in /Users/inso/Sites/33slona.i/index.php on line 10
+[Mon Aug 25 17:24:48 2014] [error] [client 127.0.0.1] PHP Fatal error:  require_once(): Failed opening required '/Users/inso/Sites/33slona.i/../../framework/yii.php' (include_path='.:') in /Users/inso/Sites/33slona.i/index.php on line 10
+[Mon Aug 25 17:25:00 2014] [error] [client 127.0.0.1] PHP Warning:  require_once(/Users/inso/Sites/33slona.i/../../framework/yii.php): failed to open stream: No such file or directory in /Users/inso/Sites/33slona.i/index.php on line 10
+[Mon Aug 25 17:25:00 2014] [error] [client 127.0.0.1] PHP Fatal error:  require_once(): Failed opening required '/Users/inso/Sites/33slona.i/../../framework/yii.php' (include_path='.:') in /Users/inso/Sites/33slona.i/index.php on line 10
+[Mon Aug 25 17:25:05 2014] [error] [client 127.0.0.1] PHP Warning:  require_once(/Users/inso/Sites/33slona.i/../../framework/yii.php): failed to open stream: No such file or directory in /Users/inso/Sites/33slona.i/index.php on line 10
+[Mon Aug 25 17:25:05 2014] [error] [client 127.0.0.1] PHP Fatal error:  require_once(): Failed opening required '/Users/inso/Sites/33slona.i/../../framework/yii.php' (include_path='.:') in /Users/inso/Sites/33slona.i/index.php on line 10
+[Mon Aug 25 17:25:14 2014] [error] [client 127.0.0.1] PHP Warning:  require_once(/Users/inso/Sites/33slona.i/../../framework/yii.php): failed to open stream: No such file or directory in /Users/inso/Sites/33slona.i/index.php on line 10
+[Mon Aug 25 17:25:14 2014] [error] [client 127.0.0.1] PHP Fatal error:  require_once(): Failed opening required '/Users/inso/Sites/33slona.i/../../framework/yii.php' (include_path='.:') in /Users/inso/Sites/33slona.i/index.php on line 10
+[Mon Aug 25 17:25:14 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/favicon.ico
+[Mon Aug 25 17:25:29 2014] [error] [client 127.0.0.1] PHP Warning:  require_once(/Users/inso/Sites/33slona.i/../../framework/yii.php): failed to open stream: No such file or directory in /Users/inso/Sites/33slona.i/index.php on line 11
+[Mon Aug 25 17:25:29 2014] [error] [client 127.0.0.1] PHP Fatal error:  require_once(): Failed opening required '/Users/inso/Sites/33slona.i/../../framework/yii.php' (include_path='.:') in /Users/inso/Sites/33slona.i/index.php on line 11
+[Mon Aug 25 17:25:45 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:25:45 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:25:45 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:25:45 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:26:13 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:26:13 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:26:13 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:26:13 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:26:14 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:26:14 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:26:14 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:26:14 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/css, referer: http://33slona.i/
+[Mon Aug 25 17:26:20 2014] [error] [client 127.0.0.1] File does not exist: /Users/inso/Sites/33slona.i/site
+[Tue Aug 26 00:36:34 2014] [error] [client 127.0.0.1] PHP Parse error:  parse error in /Users/inso/Sites/33slona.i/protected/models/Task.php on line 131
+[Tue Aug 26 00:36:36 2014] [error] [client 127.0.0.1] PHP Parse error:  parse error in /Users/inso/Sites/33slona.i/protected/models/Task.php on line 131
